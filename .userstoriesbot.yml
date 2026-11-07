@@ -6,8 +6,6 @@ app:
   url: http://localhost:{port}
   readyPath: /
   runtime: node24
-  env:
-    NODE_ENV: development
 demo:
   maxVideos: 1
   beforePass: true
